@@ -1,6 +1,4 @@
 # JS-AI-Discord-bot
-## To event run a bot open CMD in your bot's folder and type these commands:
-### npm i discord.js dotenv openai
 ## And now do steps under
 ## 1.
 ### Open .env file
@@ -10,3 +8,9 @@
 ### In "CLIENT_ID" type bot's ID
 ## 4.
 ### In "API_KEY" type Groq's api key
+## 5.
+### In "CHATBOT_CHANNEL_ID" type chatbot channel's ID
+## 6.
+### In "CHATBOT_INSTRUCTIONS" type chatbot's instructions
+## 7.
+### In console type "node src/index.js"
