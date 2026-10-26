@@ -14,3 +14,4 @@
 ### In "CHATBOT_INSTRUCTIONS" type chatbot's instructions
 ## 7.
 ### In console type "node src/index.js"
+# [![Deploy on Bot-Hosting](https://bot-hosting.net/assets/deploy-badge.svg)](https://bot-hosting.net/deploy?source=template&template=js-ai-discord-bot)
